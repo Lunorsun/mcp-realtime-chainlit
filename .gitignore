@@ -165,3 +165,10 @@ cython_debug/
 .files/
 .conda/
 .vscode/
+# Large files
+*.zip
+project.zip
+PROJECT_REPORT.md
+
+# Temporary directories
+today-self-journal/
