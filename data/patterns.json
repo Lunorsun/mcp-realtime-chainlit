@@ -1,0 +1,302 @@
+[
+  {
+    "date": "2025-11-14",
+    "text": "만나서 반가워",
+    "analysis": {
+      "emotion": "지침",
+      "intensity": 1,
+      "direction": "내부",
+      "summary": "감정: 지침, 강도: 1/5, 방향: 내부"
+    },
+    "events": {
+      "events": [
+        {
+          "text": "만나서 반가워",
+          "location": "-",
+          "cause": "-"
+        }
+      ],
+      "relations": []
+    }
+  },
+  {
+    "date": "2025-11-14",
+    "text": "죽을것같음",
+    "analysis": {
+      "emotion": "지침",
+      "intensity": 1,
+      "direction": "내부",
+      "summary": "감정: 지침, 강도: 1/5, 방향: 내부"
+    },
+    "events": {
+      "events": [
+        {
+          "text": "죽을것같음",
+          "location": "-",
+          "cause": "-"
+        }
+      ],
+      "relations": []
+    }
+  },
+  {
+    "date": "2025-11-14",
+    "text": "아니 안지치는데",
+    "analysis": {
+      "emotion": "지침",
+      "intensity": 1,
+      "direction": "내부",
+      "summary": "감정: 지침, 강도: 1/5, 방향: 내부"
+    },
+    "events": {
+      "events": [
+        {
+          "text": "아니 안지치는데",
+          "location": "-",
+          "cause": "-"
+        }
+      ],
+      "relations": []
+    }
+  },
+  {
+    "date": "2025-11-14",
+    "text": "오늘 ai만드는 시간이 촉박해서 너무 힘든것 같아",
+    "analysis": {
+      "emotion": "지침",
+      "intensity": 2,
+      "direction": "내부",
+      "summary": "감정: 지침, 강도: 2/5, 방향: 내부"
+    },
+    "events": {
+      "events": [
+        {
+          "text": "오늘 ai만드는 시간이 촉박해서 너무 힘든것 같아",
+          "location": "-",
+          "cause": "-"
+        }
+      ],
+      "relations": []
+    }
+  },
+  {
+    "date": "2025-11-14",
+    "text": "성찰 질문-1 모르겠어",
+    "analysis": {
+      "emotion": "지침",
+      "intensity": 1,
+      "direction": "내부",
+      "summary": "감정: 지침, 강도: 1/5, 방향: 내부"
+    },
+    "events": {
+      "events": [
+        {
+          "text": "성찰 질문-1 모르겠어",
+          "location": "-",
+          "cause": "-"
+        }
+      ],
+      "relations": []
+    }
+  },
+  {
+    "date": "2025-11-14",
+    "text": "난 지치지 않아!",
+    "analysis": {
+      "emotion": "지침",
+      "intensity": 2,
+      "direction": "내부",
+      "summary": "감정: 지침, 강도: 2/5, 방향: 내부"
+    },
+    "events": {
+      "events": [
+        {
+          "text": "난 지치지 않아",
+          "location": "-",
+          "cause": "-"
+        }
+      ],
+      "relations": []
+    }
+  },
+  {
+    "date": "2025-11-14",
+    "text": "내일은 기분이 좋은것같아",
+    "analysis": {
+      "emotion": "지침",
+      "intensity": 1,
+      "direction": "내부",
+      "summary": "감정: 지침, 강도: 1/5, 방향: 내부"
+    },
+    "events": {
+      "events": [
+        {
+          "text": "내일은 기분이 좋은것같아",
+          "location": "-",
+          "cause": "-"
+        }
+      ],
+      "relations": []
+    }
+  },
+  {
+    "date": "2025-11-14",
+    "text": "죽고싶어",
+    "analysis": {
+      "emotion": "지침",
+      "intensity": 1,
+      "direction": "내부",
+      "summary": "감정: 지침, 강도: 1/5, 방향: 내부"
+    },
+    "events": {
+      "events": [
+        {
+          "text": "죽고싶어",
+          "location": "-",
+          "cause": "-"
+        }
+      ],
+      "relations": []
+    }
+  },
+  {
+    "date": "2025-11-14",
+    "text": "목숨을 걸다",
+    "analysis": {
+      "emotion": "지침",
+      "intensity": 1,
+      "direction": "내부",
+      "summary": "감정: 지침, 강도: 1/5, 방향: 내부"
+    },
+    "events": {
+      "events": [
+        {
+          "text": "목숨을 걸다",
+          "location": "-",
+          "cause": "-"
+        }
+      ],
+      "relations": []
+    }
+  },
+  {
+    "date": "2025-11-14",
+    "text": "오늘 너무 행복해",
+    "analysis": {
+      "emotion": "성취",
+      "intensity": 2,
+      "direction": "내부",
+      "summary": "감정: 성취, 강도: 2/5, 방향: 내부"
+    },
+    "events": {
+      "events": [
+        {
+          "text": "오늘 너무 행복해",
+          "location": "-",
+          "cause": "-"
+        }
+      ],
+      "relations": []
+    }
+  },
+  {
+    "date": "2025-11-14",
+    "text": "사랑스러웡",
+    "analysis": {
+      "emotion": "지침",
+      "intensity": 1,
+      "direction": "내부",
+      "summary": "감정: 지침, 강도: 1/5, 방향: 내부"
+    },
+    "events": {
+      "events": [
+        {
+          "text": "사랑스러웡",
+          "location": "-",
+          "cause": "-"
+        }
+      ],
+      "relations": []
+    }
+  },
+  {
+    "date": "2025-11-14",
+    "text": "인생이 무상하다 생각해 어떻게 살아야할지 모르겠고 힘들어 정말..",
+    "analysis": {
+      "emotion": "불안",
+      "intensity": 2,
+      "direction": "내부",
+      "summary": "감정: 불안, 강도: 2/5, 방향: 내부"
+    },
+    "events": {
+      "events": [
+        {
+          "text": "인생이 무상하다 생각해 어떻게 살아야할지 모르겠고 힘들어 정말",
+          "location": "-",
+          "cause": "-"
+        }
+      ],
+      "relations": []
+    }
+  },
+  {
+    "date": "2025-11-14",
+    "text": "쉽지 않네 ㅠ",
+    "analysis": {
+      "emotion": "지침",
+      "intensity": 1,
+      "direction": "내부",
+      "summary": "감정: 지침, 강도: 1/5, 방향: 내부"
+    },
+    "events": {
+      "events": [
+        {
+          "text": "쉽지 않네 ㅠ",
+          "location": "-",
+          "cause": "-"
+        }
+      ],
+      "relations": []
+    }
+  },
+  {
+    "date": "2025-11-14",
+    "text": "살고싶다",
+    "analysis": {
+      "emotion": "지침",
+      "intensity": 1,
+      "direction": "내부",
+      "summary": "감정: 지침, 강도: 1/5, 방향: 내부"
+    },
+    "events": {
+      "events": [
+        {
+          "text": "살고싶다",
+          "location": "-",
+          "cause": "-"
+        }
+      ],
+      "relations": []
+    }
+  },
+  {
+    "date": "2025-11-14",
+    "text": "인생이 힘들진 않네",
+    "analysis": {
+      "emotion": "불안",
+      "intensity": 1,
+      "direction": "내부",
+      "summary": "감정: 불안, 강도: 1/5, 방향: 내부"
+    },
+    "events": {
+      "events": [
+        {
+          "text": "인생이 힘들진 않네",
+          "location": "-",
+          "cause": "-"
+        }
+      ],
+      "relations": []
+    }
+  }
+]

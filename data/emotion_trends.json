@@ -1,0 +1,47 @@
+{
+  "weekly": {
+    "2025-W46": [
+      {
+        "date": "2025-11-14",
+        "emotion": "지침",
+        "intensity": 1
+      },
+      {
+        "date": "2025-11-14",
+        "emotion": "지침",
+        "intensity": 1
+      },
+      {
+        "date": "2025-11-14",
+        "emotion": "성취",
+        "intensity": 2
+      },
+      {
+        "date": "2025-11-14",
+        "emotion": "지침",
+        "intensity": 1
+      },
+      {
+        "date": "2025-11-14",
+        "emotion": "불안",
+        "intensity": 2
+      },
+      {
+        "date": "2025-11-14",
+        "emotion": "지침",
+        "intensity": 1
+      },
+      {
+        "date": "2025-11-14",
+        "emotion": "지침",
+        "intensity": 1
+      },
+      {
+        "date": "2025-11-14",
+        "emotion": "불안",
+        "intensity": 1
+      }
+    ]
+  },
+  "monthly": {}
+}
